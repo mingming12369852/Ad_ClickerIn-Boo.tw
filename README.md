@@ -7,6 +7,11 @@
 * Node.js 版本:12.13.0
 
 
+2019/11/25:
+![](https://i.imgur.com/M8xgWKr.png)
+
+
+
 
 ---
 
@@ -17,7 +22,26 @@ or
 git clone git@github.com:mingming12369852/Ad_ClickerIn-Boo.tw.git
 
 
+
+打開 app.js 
+修改裡面urlALL = <Array> 的參數。
+
+範例：
+const urlALL = ["http://boo.tw/1ub7N",
+"http://boo.tw/SBtj9",
+"http://boo.tw/QkVAz",
+"http://boo.tw/MICuz",
+"http://boo.tw/jxXDD",
+"http://boo.tw/9pZ1P",
+"http://boo.tw/N_xLt",
+"http://boo.tw/og0TB",
+"http://boo.tw/Y5rOU",
+"http://boo.tw/wmsKY"];
+
 >>cd Ad_ClickerIn-Boo.tw-master
+
+
+
 >>node app.js You_ProxyServerIP.txt
 
 祝你好運:D
@@ -27,6 +51,3 @@ git clone git@github.com:mingming12369852/Ad_ClickerIn-Boo.tw.git
 
 
 ---
-
-### 右上角的"Star"記得幫我按下哦!!
-![](https://i.imgur.com/ZehEQ5w.png)
