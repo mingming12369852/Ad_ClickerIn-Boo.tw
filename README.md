@@ -59,7 +59,7 @@ const urlALL = ["http://boo.tw/1ub7N",
 >npm i puppeteer
 
 
-### 右上角的"Star"記得幫我按下哦!!
+### 右上角的"Star"記得幫我按下表示感謝哦!!
 ![](https://i.imgur.com/ZehEQ5w.png)
 
 如果違反規則or被檢舉將會立刻下架。
