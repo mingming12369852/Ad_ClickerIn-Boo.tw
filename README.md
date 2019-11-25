@@ -34,9 +34,6 @@ const urlALL = ["http://boo.tw/1ub7N",
 "http://boo.tw/MICuz",
 "http://boo.tw/jxXDD",
 "http://boo.tw/9pZ1P",
-"http://boo.tw/N_xLt",
-"http://boo.tw/og0TB",
-"http://boo.tw/Y5rOU",
 "http://boo.tw/wmsKY"];
 
 >>cd Ad_ClickerIn-Boo.tw-master
@@ -52,6 +49,16 @@ const urlALL = ["http://boo.tw/1ub7N",
 
 
 ---
+# 發生錯誤？
+### Error: Cannot find module 'puppeteer' ?
+>
+![](https://i.imgur.com/7oF5o94.png)
+
+控制台輸入：
+
+>npm i puppeteer
+
 
 ### 右上角的"Star"記得幫我按下哦!!
 ![](https://i.imgur.com/ZehEQ5w.png)
+
