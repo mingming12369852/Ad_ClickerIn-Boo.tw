@@ -62,4 +62,5 @@ const urlALL = ["http://boo.tw/1ub7N",
 ### 右上角的"Star"記得幫我按下哦!!
 ![](https://i.imgur.com/ZehEQ5w.png)
 
-
+如果違反規則or被檢舉將會立刻下架。
+僅提供參考學習。
