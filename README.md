@@ -5,6 +5,7 @@
 * 腳本說明：自動換IP跑，模擬滑鼠點擊，模擬使用者瀏覽時間。
 * 系統支持：Lunux / Wind10
 * Node.js 版本:12.13.0
+* API MOD：Puppeteer
 
 
 2019/11/25:
@@ -51,3 +52,6 @@ const urlALL = ["http://boo.tw/1ub7N",
 
 
 ---
+
+### 右上角的"Star"記得幫我按下哦!!
+![](https://i.imgur.com/ZehEQ5w.png)
