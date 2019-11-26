@@ -3,7 +3,7 @@
 自動點擊廣告腳本v1.4 By Bebo0010**
 
 * 腳本說明：自動換IP跑，模擬滑鼠點擊，模擬使用者瀏覽時間。
-* 系統支持：Lunux / Wind10
+* 系統支持：Linux / windows10 
 * Node.js 版本:12.13.0
 * API MOD：Puppeteer
 
@@ -16,7 +16,7 @@
 
 ---
 
-# How To User?
+# How To Use?
 ```
 Download Ad_ClickerIn-Boo.tw-master.zip
 or
